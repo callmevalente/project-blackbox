@@ -1,0 +1,4 @@
+# ignore all txt files (report and test files)
+*.txt
+# ignores the cache folder
+__pycache__/
